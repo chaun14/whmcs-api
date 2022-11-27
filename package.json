@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/at0mic-jpeg/whmcs-api#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0",
-    "querystring": "^0.2.0"
+    "querystring": "^0.2.0",
+    "undici": "^5.13.0"
   }
 }
